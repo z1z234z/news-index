@@ -1,6 +1,6 @@
 # sw-management
 
-> smartsowork manage platform
+> 新闻指数分析
 
 ## Build Setup
 
