@@ -1,0 +1,28 @@
+/* 重置默认样式 */
+html,body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+}
+ul,li{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+a{
+    color: #010101;
+    text-decoration: none;
+}
+@media(min-width:1201px){
+    .content{
+        width: 1200px;
+        margin: 0 auto;
+        padding-left: 0px;
+        padding-right: 0px; 
+    }
+}
+@media(max-width:1200px){
+    .content{
+        padding: 10px 20px;
+    }
+}
